@@ -2,9 +2,10 @@
 
 ## Descrição
 
-O projeto consiste no desenvolvimento de uma biblioteca em linguagem C
-voltada à criação, organização, armazenamento e manipulação de pequenos
-bancos de dados.
+Este é um projeto desenvolvido na disciplina de Programação Avançada, do 
+segundo período do Bacharelado em Engenharia de Computação. O mesmo consiste
+no desenvolvimento de uma biblioteca em linguagem C voltada à criação, 
+organização, armazenamento e manipulação de pequenos bancos de dados.
 
 A biblioteca permitirá que programas externos criem e abram arquivos de
 dados, insiram, consultem, atualizem e excluam registros, além de
